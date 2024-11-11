@@ -1,1 +1,1 @@
-SQL course using duckdb
+# SQL course using duckdb
